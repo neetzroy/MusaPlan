@@ -1,2 +1,2 @@
-# MusaPlan
-Project MusaPlan
+# MusoPlan
+Project MusoPlan
